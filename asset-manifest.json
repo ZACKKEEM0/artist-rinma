@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/artist-rinma/static/css/main.be0610d6.css",
+    "main.js": "/artist-rinma/static/js/main.8d4e3748.js",
+    "static/js/787.28cb0dcd.chunk.js": "/artist-rinma/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/artist-rinma/index.html",
+    "main.be0610d6.css.map": "/artist-rinma/static/css/main.be0610d6.css.map",
+    "main.8d4e3748.js.map": "/artist-rinma/static/js/main.8d4e3748.js.map",
+    "787.28cb0dcd.chunk.js.map": "/artist-rinma/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be0610d6.css",
+    "static/js/main.8d4e3748.js"
+  ]
+}
